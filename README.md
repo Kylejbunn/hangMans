@@ -2,7 +2,7 @@
 
 This is a simple game of hangman built in Python. I created this project specifically to demonstrate my ability to use Python, Visual Studio, and Git on a fundamental level. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+{Software Demo Video} coming soon
 
 # Development Environment
 
